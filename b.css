@@ -1,0 +1,8 @@
+@import url(./b.css);
+body{
+    background-color: grey;
+}
+h1{
+    text-align: center;
+    color: red;
+}
